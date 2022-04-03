@@ -1,7 +1,6 @@
 ##Olá! Pode me chamar de Aldo!!!
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 📫 Contato: anealdo@outlook.com
 - <div align="center">
   <a href="https://github.com/Anealdo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anealdo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
